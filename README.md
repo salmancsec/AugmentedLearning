@@ -1,2 +1,2 @@
 # AugmentedLearning
-It's a web-based augmented reality learning application built on raw HTML and CSS and a bit of AR.js.
+It's a web-based augmented reality learning application built on raw HTML and CSS and a bit of AR.js. I'm not a professional developer myself! Alhamdulillah, I used some of my previous experiences from what I learned about HTML and CSS during the time of the pandemic. All praise be to Allah that I could simply “PASS” my finals with this project. The naming conventions for the files and directories are TOO BAD, please pardon me for that. Anyway, I hope you can figure it out with some close inspection, and it will give you some ideas about the project. Then, you can make a new one or modify it according to your needs.😀
